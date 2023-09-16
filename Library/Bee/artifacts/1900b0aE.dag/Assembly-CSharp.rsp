@@ -356,6 +356,7 @@
 "Assets/Scenes/map/scrpits/cubedstry.cs"
 "Assets/Scenes/map/scrpits/Movement.cs"
 "Assets/Scenes/map/scrpits/playerMovement.cs"
+"Assets/Scenes/map/scrpits/ScoreManager.cs"
 "Assets/Scenes/map/scrpits/show.cs"
 "Assets/Scenes/map/scrpits/Spawner.cs"
 "Assets/Scenes/map/scrpits/uimanager.cs"
